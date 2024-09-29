@@ -21,15 +21,8 @@
 - Designed and implemented custom CRM tools to optimize sales workflows and incentive structures.
 
 ## Projects
-### Power BI Dashboard for Sales Performance & Forecasting
-Developed a comprehensive Power BI dashboard to provide real-time insights into sales performance, market penetration, and product effectiveness. The solution consolidated multiple data sources, enabling the sales and marketing teams to optimize their strategies with actionable insights. This tool reduced manual reporting time by 40% and enhanced the accuracy of sales forecasts.
-
-### Automated CRM & Sales Reporting System
-Led the automation of CRM data integration and sales performance tracking using Salesforce, allowing for efficient data visualization and performance monitoring across all levels of the sales hierarchy. Enhanced user experience through training and local deployment, aligning the system with the business needs of the French market.
-
-## Publications & Talks
-- Speaker at internal training sessions on Data Visualization using Power BI, 2023
-- Guest Lecture: Optimizing Sales Forecasting Models using Python, 2021
+### [BA Portfolio](https://roman-lakovskiy.ju.mp)
+### [Data Science Project 1: Share Market](https://github.com/LakovskyR/portfolio/blob/main/MarketShareBuyPredictor.ipynb])
 
 ## Tools & Methodologies
 - Advanced experience in Power BI, Tableau, Python, R, SQL, and Excel for data analysis and visualization.
@@ -37,7 +30,9 @@ Led the automation of CRM data integration and sales performance tracking using 
 - Strong knowledge of geospatial analysis tools like QGIS for market segmentation and sales optimization.
 
 ## Certifications
-- Data Science and Machine Learning | Coursera (2020)
-- Advanced Power BI | Microsoft (2021)
+- Google Advanced Data Analytics | Google (2024)
+- Google Data Analytics | Google (2024)
+- Google Project Management | Google (2024)
+- DP-300 Azure | Coursera (2024)
 
 - [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
