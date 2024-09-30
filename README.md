@@ -7,12 +7,12 @@
 - Master, Économétrie | Russie (_2005_)	 			        		
 
 ## Work Experience
-**Senior Business Analyst SFE-BI @ Viatris France (_January 2023 - Present_)**
+**Senior Business Analyst SFE-BI @ Viatris France ( 2023 - Present_)**
 - Developed and deployed a Power BI tool synthesizing data from multiple sources to track key KPIs for Commercial, Regulatory, Marketing, and SFE departments.
 - Automated reporting processes, resulting in significant time savings and enhanced decision-making capabilities for internal clients.
 - Led forecasting model improvements and conducted AB testing for data-driven decision making across multiple business units.
 
-**Senior Business Analyst SFE-BI @ Boehringer Ingelheim France (_January 2022 - December 2022_)**
+**Senior Business Analyst SFE-BI @ Boehringer Ingelheim France (_2022 - December 2023_)**
 - Conducted statistical and geospatial analyses to optimize customer engagement and sales strategies.
 - Implemented dynamic dashboards using Power BI, allowing for real-time performance monitoring across multiple regions.
 
@@ -22,7 +22,7 @@
 
 ## Projects
 ### [BA Portfolio](https://roman-lakovskiy.ju.mp)
-### [Data Science Project 1: Share Market](https://github.com/LakovskyR/portfolio/blob/main/MarketShareBuyPredictor.ipynb])
+### [Data Science Project 1: Share Market](https://github.com/LakovskyR/portfolio/blob/main/MarketShareBuyPredictor.ipynb)
 
 ## Tools & Methodologies
 - Advanced experience in Power BI, Tableau, Python, R, SQL, and Excel for data analysis and visualization.
