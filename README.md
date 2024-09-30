@@ -12,7 +12,7 @@
 - Automated reporting processes, resulting in significant time savings and enhanced decision-making capabilities for internal clients.
 - Led forecasting model improvements and conducted AB testing for data-driven decision making across multiple business units.
 
-**Senior Business Analyst SFE-BI @ Boehringer Ingelheim France (_2022 - December 2023_)**
+**Senior Business Analyst SFE-BI @ Boehringer Ingelheim France (_2022 - 2023_)**
 - Conducted statistical and geospatial analyses to optimize customer engagement and sales strategies.
 - Implemented dynamic dashboards using Power BI, allowing for real-time performance monitoring across multiple regions.
 
